@@ -1,0 +1,26 @@
+.container {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: rgb(139, 130, 130)
+}
+.form{
+    display: inline-block;
+    
+    border: 5px solid plum;
+    padding: 20px;
+    height: 600px;
+    width: 400px;
+    vertical-align: top;
+    border-radius: 5px;
+    background-color: rgb(220, 213, 233)
+}
+.form button{
+    position: relative;
+    left: 250px;
+    background-color: plum;
+
+}
